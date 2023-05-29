@@ -8,5 +8,6 @@
         Title="MainWindow" Height="450" Width="800">
     <Grid>
         <TextBlock TextAlignment="Center" FontSize="40">ПРИМЕР</TextBlock>
+        <TextBox Margin="73,65,73,247"></TextBox>
     </Grid>
 </Window>
