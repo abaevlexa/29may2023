@@ -9,5 +9,6 @@
     <Grid>
         <TextBlock TextAlignment="Center" FontSize="40">ПРИМЕР</TextBlock>
         <TextBox Margin="73,65,73,247"></TextBox>
+        <TextBox Margin="74,194,72,118"></TextBox>
     </Grid>
 </Window>
